@@ -1,3 +1,5 @@
+// TODO : 1, 3, 5, 7, 9 숫자를 각각 한 번씩만 사용하여 만들 수 있는 두 개의 숫자(예: 13, 579) 중에서, 그 곱이 가장 큰 조합을 찾는 스크립트를 작성해 주세요.
+
 function findMaxProduct(): void {
     const digits = [1, 3, 5, 7, 9];
     let maxProduct = 0;
