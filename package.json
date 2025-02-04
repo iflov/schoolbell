@@ -7,8 +7,7 @@
     "start": "ts-node",
     "test": "jest",
     "problem1": "ts-node src/problems/problem1.ts",
-    "problem2": "ts-node src/problems/problem2.ts",
-    "problem3": "ts-node src/problems/problem3.ts"
+    "problem2": "ts-node src/problems/problem2.ts"
   },
   "devDependencies": {
     "@types/node": "^22.12.0",
